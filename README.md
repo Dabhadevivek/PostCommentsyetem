@@ -7,8 +7,11 @@ A modern, full-stack application for creating and managing posts with real-time 
 ### Main Features Preview
 
 ![Screenshot 1](xScreenshot/Screenshot1.png)
+
 ![Screenshot 2](xScreenshot/Screenshot2.png)
+
 ![Screenshot 3](xScreenshot/Screenshot3.png)
+
 ![Screenshot 4](xScreenshot/Screenshot4.png)
 
 
